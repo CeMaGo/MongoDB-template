@@ -1,3 +1,7 @@
+// module.exports = {
+//   env:{
+//   MONGO_URI:mongodb+srv://cecilemarleen:dIPoeaY5INjRzNQp@cluster0.k94adlt.mongodb.net/?retryWrites=true&w=majority
+//   }};
 {
   "compilerOptions": {
     "baseUrl": ".",
